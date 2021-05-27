@@ -1,0 +1,16 @@
+{
+  "name": "requests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+  "jokes": "node jokes.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  }
+}
