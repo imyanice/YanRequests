@@ -1,5 +1,6 @@
 # YanRequests
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYan-Jobs%2FYanRequests.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYan-Jobs%2FYanRequests?ref=badge_shield)
+[![CodeFactor](https://www.codefactor.io/repository/github/yan-jobs/yanrequests/badge)](https://www.codefactor.io/repository/github/yan-jobs/yanrequests)
 
 YanRequests is a repo that I used for querying APIs.
 
