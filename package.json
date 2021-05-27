@@ -2,12 +2,11 @@
   "name": "requests",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "scripts": {
-  "jokes": "node jokes.js"
+    "jokes": "node jokes.js"
   },
   "dependencies": {
-    "axios": "^0.21.1",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
